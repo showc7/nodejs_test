@@ -3,6 +3,7 @@
 	"version":"0.1.0",
 	"dependencies":
 	{
+		"express":"~4.13.3",
 		"express-route-tree":"~4.2.0"
 	}
 }
