@@ -1,4 +1,4 @@
-exports.index = function(req, res, next, page, second) {
-  res.send("hello");
+exports.index = function(req, res, next, first, second) {
+  res.send("hello " + first + " | " + second + "|\n");
   res.end();
 }
