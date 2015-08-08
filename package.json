@@ -4,6 +4,7 @@
 	"dependencies":
 	{
 		"express":"~4.13.3",
-		"express-route-tree":"~4.2.0"
+		"express-route-tree":"~4.2.0",
+		"simple-oauth2":"~0.2.1"
 	}
 }
